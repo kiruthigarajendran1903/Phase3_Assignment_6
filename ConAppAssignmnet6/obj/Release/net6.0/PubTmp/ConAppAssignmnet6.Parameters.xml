@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Assignmnet6" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\SimpliLearn\\Phase-3\\Day-8\\ConAppAssignmnet6\\ConAppAssignmnet6\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
